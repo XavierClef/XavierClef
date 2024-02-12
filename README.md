@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XavierClef !
     My full name is Xavier Klee.
   
-  I’m currently student in Geography, in France.
+  I’m currently a student in Geography, in France.
   I'm a beginner in R, and I have started programmation for do some stuff in remote sensing.
   I like studying geoscience because I enjoy walking in the mountains. Simply.
    
