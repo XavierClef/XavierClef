@@ -1,9 +1,8 @@
 ### 👋 Hi, I’m **Xavier Clef** (Xavier Klee)
 
-🎓 I’m currently a Geography student based in France.  
+🎓 I’m currently a research engineer based in France.  
 🌍 My passion for geoscience stems from my love of the mountains and the outdoors.  
-💻 I’m an R user, diving into programming to enhance my skills in remote sensing and geospatial analysis.  
-🌱 Currently learning how to work with LiDAR data and expanding my coding knowledge in Python.
+💻 I’m an R user, diving into programming to enhance my skills in remote sensing and geospatial analysis.
 
 ---
 
@@ -27,9 +26,3 @@
 
 Feel free to explore my repositories to see what I’m working on.  
 I’m open to collaboration on projects related to geospatial analysis, remote sensing, and more!
-
-
-<!---
-XavierClef/XavierClef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
